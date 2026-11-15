@@ -1,0 +1,34 @@
+Saudi Arabia - immigration/residency and labour authorities
+Checked 15 November 2026. No files kept: nothing found that is guidance addressed to decision-makers.
+
+Authorities
+- General Directorate of Passports (Jawazat), Ministry of Interior: residence (iqama), exit/re-entry.
+  https://www.moi.gov.sa/ - robots.txt did not answer from this machine (connection timed out after
+  40 s); not used further. Jawazat's services run through the Absher and Muqeem portals (login).
+- Ministry of Human Resources and Social Development (MHRSD / HRSD): work visas and work permits
+  (rukhsat 'amal), via the Qiwa platform (login). https://www.hrsd.gov.sa/ - robots.txt read
+  (User-agent: * Allow: /).
+
+What exists
+- HRSD knowledge centre, "Regulations and procedures":
+  https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures
+  with sub-lists .../evidence (guides), .../procedure, .../regulation, .../system, .../violations.
+  The "guides" list holds procedural guides (al-dalil al-ijra'i) for Saudisation decisions (sales,
+  marketing, engineering, project management, dentistry, support-administrative occupations, etc.),
+  Nitaqat, occupational-fitness examinations, and the "Guide to classifying work permits by skill
+  category" (dalil tasnif rukhas al-'amal hasba al-fi'at al-maharia, 5 July 2025, implementing
+  Ministerial Decision No. 4602 of 10/1/1447 H):
+  https://www.hrsd.gov.sa/sites/default/files/2025-07/dlyl-tsnyf-rkhs-al-ml-bhsb-alfy-at-almharyt---alnskht-almhdwtht---1ywlyw-2025m.pdf
+  Each guide's page names its audience as "employers, individuals" and states that the guide's purpose
+  is to inform the labour market (establishments and non-Saudi workers). They are public information
+  on how the decisions apply, not instructions to the officials who decide; not kept.
+- The "procedure" list holds ministerial rules (e.g. rules on Saudi-staffing intermediation, domestic-
+  worker contractual relations, job-advertisement rules) - legal acts, not wanted.
+- No Jawazat manual, circular or instruction for officers was found (web searches, November 2026,
+  returned only news reports and expatriate guides).
+
+Finding
+Saudi Arabia publishes no guidance addressed to the officials who decide residence or work-permit
+cases. MHRSD publishes many employer-facing procedural guides and its ministerial decisions; Jawazat
+publishes nothing beyond service announcements. Decisions are largely system-driven inside Qiwa,
+Muqeem and Absher, whose rules are not public.
